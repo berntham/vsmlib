@@ -19,7 +19,7 @@ VSMlib is an open-source Python library for working with vector space models (VS
 Why do you bother?
 --------------------
 
-There are a few other libraries for working with VSMs, including gensim and spacy. VSMlib differs from them in that its primary goal is to facilitate pricipled, systematic research in providing **a framework for reproducible experiments** on VSMs.
+There are a few other libraries for working with VSMs, including gensim and spacy. VSMlib differs from them in that its primary goal is to facilitate principled, systematic research in providing **a framework for reproducible experiments** on VSMs.
 
 From the academic perspective, this matters because this is the only way to understand more about what VSMs are and what kind of meaning representation they offer.
 
